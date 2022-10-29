@@ -1,5 +1,6 @@
 # Hi there, I'm Nando 👋
-I'm 21 and I intend to start my career as a Full Stack Developer. Currently studying Computer Science at [UTFPR](http://www.utfpr.edu.br) and a Full-Stack-Developer bootcamp at [Driven Education](https://www.driven.com.br), I feel empowered to join a team and offer good results.
+Here you'll find some random codes from my mind and a few projects to practice my knowledge as well :grin:
+Anyways, I'm 21 and I intend to start my career as a Full Stack Developer. Currently studying Computer Science at [UTFPR](http://www.utfpr.edu.br) and a Full-Stack-Developer bootcamp at [Driven Education](https://www.driven.com.br), I feel empowered to join a team and offer good results.
 
 ### Languages:
 <p align="left">

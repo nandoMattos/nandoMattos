@@ -3,7 +3,7 @@ Here you'll find some random codes from my mind and a few projects to practice m
 
 Anyways, I'm 21 and I intend to start my career as a Full Stack Developer. Currently studying Computer Science at [UTFPR](http://www.utfpr.edu.br) and a Full-Stack-Developer bootcamp at [Driven Education](https://www.driven.com.br), I feel empowered to join a team and offer good results.
 
-### Languages:
+### Languages
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
@@ -30,7 +30,7 @@ Anyways, I'm 21 and I intend to start my career as a Full Stack Developer. Curre
       alt="mysql" width="40" height="40" /> </a>
 </p>
 
-## Technologies:
+## Technologies & Tools <img src="https://media4.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif?cid=6c09b9522cta2xc47v1hsphpjqheusrz90dxprqg2d6wljih&rid=giphy.gif&ct=s" width="70px">
 <p align="left">
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
@@ -46,7 +46,7 @@ Anyways, I'm 21 and I intend to start my career as a Full Stack Developer. Curre
       alt="laravel" width="40" height="40" /> </a>
 </p>
 
-## Contact me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+## Contact me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
   <p align="left">
       <br/>
       <a href="https://www.linkedin.com/in/nandomattos/" target="_blank"><img align="center"

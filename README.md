@@ -56,3 +56,16 @@ Anyways, I'm 21 and I intend to start my career as a Full Stack Developer. Curre
          src="https://img.shields.io/badge/gmail-EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white"
          alt="azzar" height="30"/></a>
   </p>
+   <p align="left">
+      <a href="https://www.instagram.com/nando_mtts/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://wa.me/+5514997928787" target="blank"><img align="center"
+         src="https://img.shields.io/badge/whatsapp-4B7F1.svg?style=for-the-badge&logo=whatsapp&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <a href="https://twitter.com/nando_mtts" target="blank"><img align="center"
+         src="https://img.shields.io/badge/twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"
+         alt="azzar" height="30"/></a>
+      <br>
+    </p>
+  

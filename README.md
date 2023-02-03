@@ -1,7 +1,7 @@
 # Hi there, I'm Nando 👋
 Here you'll find some random codes from my mind and a few projects to practice my knowledge as well :grin:.
 
-Anyways, I'm 21 and I intend to start my career as a Full Stack Developer. Currently studying Computer Science at [UTFPR](http://www.utfpr.edu.br) and a Full-Stack-Developer bootcamp at [Driven Education](https://www.driven.com.br), I feel empowered to join a team and offer good results.
+I'm 21, passionate about coding and highly motviated to learn and start my carrer as a BackEnd developer.
 
 ### Languages
 <p align="left">
@@ -12,22 +12,20 @@ Anyways, I'm 21 and I intend to start my career as a Full Stack Developer. Curre
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
       width="40" height="40" /> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
+   <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"
     rel="noreferrer"> <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a> 
+      alt="typescript" width="40" height="40" /> </a>
+    <a href="https://www.typescriptlang.org/docs/" target="_blank"
+    rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+      alt="typescript" width="40" height="40" /> </a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
+      alt="nodejs" width="40" height="40" /> </a> 
   <a href="https://www.cprogramming.com/" target="_blank"
     rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
       alt="c" width="40" height="40" /> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40"
-      height="40" /> </a> 
-  <a href="https://docs.oracle.com/en/java/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-      height="40" /> </a> 
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a>
 </p>
 
 ## Technologies & Tools <img src="https://media4.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif?cid=6c09b9522cta2xc47v1hsphpjqheusrz90dxprqg2d6wljih&rid=giphy.gif&ct=s" width="70px">
@@ -38,12 +36,19 @@ Anyways, I'm 21 and I intend to start my career as a Full Stack Developer. Curre
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
     alt="bootstrap" width="40" height="40" /> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a> 
-    <a href="https://laravel.com/docs/9.x/readme" target="_blank" rel="noreferrer"> <img
-      src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png"
-      alt="laravel" width="40" height="40" /> </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+      alt="mysql" width="40" height="40" /> </a>
+  <a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer"> <img
+    src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"
+    alt="postgresql" width="40" height="40" /> </a>
+ <a href="https://www.prisma.io/docs" target="_blank" rel="noreferrer"> <img
+    src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png"
+    alt="prisma" width="40" height="40" /> </a>
+  <a href="https://www.mongodb.com/atlas/database" target="_blank" rel="noreferrer"> <img
+    src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png"
+    alt="mongodb" width="40" height="40" /> </a>
+    
 </p>
 
 ## Contact me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">

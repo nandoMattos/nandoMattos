@@ -1,7 +1,7 @@
 # Hi there, I'm Nando 👋
 Here you'll find some random codes from my mind and a few projects to practice my knowledge as well :grin:.
 
-I'm 21, passionate about coding and highly motviated to learn and start my carrer as a BackEnd developer.
+I'm 21, passionate about coding and highly motviated to learn and start my carrer as a backend (maybe fullstack) developer.
 
 ### Languages
 <p align="left">

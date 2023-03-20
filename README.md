@@ -17,11 +17,11 @@ I'm 21, passionate about coding and highly motivated to learn and start my caree
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"
     rel="noreferrer"> <img
       src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-      alt="javascript"/> </a>
+      alt="javascript"/> </a> 
     <a href="https://legacy.reactjs.org/" target="_blank"
     rel="noreferrer"> <img
       src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
-      alt="react.js"/> </a>
+      alt="react.js"/> </a> <br/>
      <a href="https://styled-components.com/docs" target="_blank"
     rel="noreferrer"> <img
       src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"
@@ -29,9 +29,9 @@ I'm 21, passionate about coding and highly motivated to learn and start my caree
     <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
     alt="bootstrap"/> </a>
-    
-### Back-end
 </p>
+
+### Back-end
 <p align="left">
     <a href="https://nodejs.org/en/docs" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
@@ -44,13 +44,13 @@ I'm 21, passionate about coding and highly motivated to learn and start my caree
     alt="expressjs"/> </a>
     <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
-    alt="mongodb"/> </a>
+    alt="mongodb"/> </a> 
+      <a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer"> <img
+    src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
+    alt="postgresql"/> </a> <br/>
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
-      alt="mysql"/> </a>
-  <a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer"> <img
-    src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
-    alt="postgresql"/> </a>
+      alt="mysql"/> </a> 
  <a href="https://www.prisma.io/docs" target="_blank" rel="noreferrer"> <img
     src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"
     alt="prisma"/> </a>
@@ -60,9 +60,25 @@ I'm 21, passionate about coding and highly motivated to learn and start my caree
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
     src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"
     alt="docker"/> </a>
-    
-    
+     <a href="https://docs.aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"
+    alt="AWS"/> </a>
 </p>
+
+
+### Currently Learning
+<p align="left">
+    <a href="https://docs.nestjs.com/" target="_blank" rel="noreferrer"> <img
+      src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white"
+      alt="nestjs"/> </a>
+    <a href="https://dev.java/learn/" target="_blank" rel="noreferrer"> <img
+      src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"
+      alt="java"/> </a>
+    <a href="https://learn.microsoft.com/pt-br/dotnet/csharp/" target="_blank" rel="noreferrer"> <img
+      src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"
+      alt="csharp"/> </a>
+</p>
+
 
 ## Contact me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
   <p align="left">

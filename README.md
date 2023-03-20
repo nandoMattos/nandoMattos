@@ -26,6 +26,9 @@ I'm 21, passionate about coding and highly motivated to learn and start my caree
     rel="noreferrer"> <img
       src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"
       alt="styled-components"/> </a>
+    <a href="https://getbootstrap.com/docs/5.3/getting-started/introduction/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
+    alt="bootstrap"/> </a>
     
 ### Back-end
 </p>
@@ -37,7 +40,7 @@ I'm 21, passionate about coding and highly motivated to learn and start my caree
     <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
     alt="typescript"/> </a>
     <a href="https://expressjs.com/pt-br/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"
+    <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"
     alt="expressjs"/> </a>
     <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
@@ -45,18 +48,19 @@ I'm 21, passionate about coding and highly motivated to learn and start my caree
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
       src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
       alt="mysql"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-    alt="bootstrap" width="40" height="40" /> </a>
   <a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer"> <img
-    src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"
-    alt="postgresql" width="40" height="40" /> </a>
+    src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
+    alt="postgresql"/> </a>
  <a href="https://www.prisma.io/docs" target="_blank" rel="noreferrer"> <img
-    src="https://cdn.freelogovectors.net/wp-content/uploads/2022/01/prisma_logo-freelogovectors.net_.png"
-    alt="prisma" width="40" height="40" /> </a>
-  <a href="https://www.mongodb.com/atlas/database" target="_blank" rel="noreferrer"> <img
-    src="https://cdn.iconscout.com/icon/free/png-256/mongodb-5-1175140.png"
-    alt="mongodb" width="40" height="40" /> </a>
+    src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white"
+    alt="prisma"/> </a>
+  <a href="https://jestjs.io/" target="_blank" rel="noreferrer"> <img
+    src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white"
+    alt="jest"/> </a>
+    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img
+    src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"
+    alt="docker"/> </a>
+    
     
 </p>
 

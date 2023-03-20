@@ -1,7 +1,12 @@
 # Hi there, I'm Nando 👋
-Here you'll find some random codes from my mind and a few projects to practice my knowledge as well :grin:.
 
-I'm 21, passionate about coding and highly motivated to learn and start my career as a backend (maybe fullstack) developer.
+- I'm 21, passionate about coding and always learning! 
+- Love kitty videos
+- Introspective but not introverted
+- Thinking hurts, in a good way
+- In this life, my main goal is to develop a clear and objective comunication
+
+The technologies shown below are the ones I have the most experience with, but I'm always opened to learn others!
 
 ## Technologies & Tools <img src="https://media4.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif?cid=6c09b9522cta2xc47v1hsphpjqheusrz90dxprqg2d6wljih&rid=giphy.gif&ct=s" width="70px">
 ### Front-end

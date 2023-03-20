@@ -68,6 +68,9 @@ The technologies shown below are the ones I have the most experience with, but I
      <a href="https://docs.aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"
     alt="AWS"/> </a>
+    <a href="https://redis.io/docs//" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"
+    alt="redis"/> </a>
 </p>
 
 

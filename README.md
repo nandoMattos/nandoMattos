@@ -3,42 +3,51 @@ Here you'll find some random codes from my mind and a few projects to practice m
 
 I'm 21, passionate about coding and highly motivated to learn and start my career as a backend (maybe fullstack) developer.
 
-### Languages
+## Technologies & Tools <img src="https://media4.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif?cid=6c09b9522cta2xc47v1hsphpjqheusrz90dxprqg2d6wljih&rid=giphy.gif&ct=s" width="70px">
+### Front-end
 <p align="left">
     <a href="https://www.w3schools.com/html/default.asp" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" /> </a>
+      src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
+      alt="html5"> 
+    </a>
    <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a> 
+    rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3"/> 
+   </a> 
    <a href="https://developer.mozilla.org/pt-BR/docs/Web/JavaScript" target="_blank"
     rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="typescript" width="40" height="40" /> </a>
-    <a href="https://www.typescriptlang.org/docs/" target="_blank"
+      src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
+      alt="javascript"/> </a>
+    <a href="https://legacy.reactjs.org/" target="_blank"
     rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-      alt="typescript" width="40" height="40" /> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-      alt="nodejs" width="40" height="40" /> </a> 
-  <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a>
+      src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
+      alt="react.js"/> </a>
+     <a href="https://styled-components.com/docs" target="_blank"
+    rel="noreferrer"> <img
+      src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"
+      alt="styled-components"/> </a>
+    
+### Back-end
 </p>
-
-## Technologies & Tools <img src="https://media4.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif?cid=6c09b9522cta2xc47v1hsphpjqheusrz90dxprqg2d6wljih&rid=giphy.gif&ct=s" width="70px">
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a> 
+    <a href="https://nodejs.org/en/docs" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"
+    alt="nodejs"/> </a>
+    <a href="https://www.typescriptlang.org/docs/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+    alt="typescript"/> </a>
+    <a href="https://expressjs.com/pt-br/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"
+    alt="expressjs"/> </a>
+    <a href="https://www.mongodb.com/docs/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"
+    alt="mongodb"/> </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
+      src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white"
+      alt="mysql"/> </a>
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
     alt="bootstrap" width="40" height="40" /> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
-      alt="mysql" width="40" height="40" /> </a>
   <a href="https://www.postgresql.org/docs/" target="_blank" rel="noreferrer"> <img
     src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png"
     alt="postgresql" width="40" height="40" /> </a>

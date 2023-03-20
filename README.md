@@ -1,6 +1,6 @@
 # Hi there, I'm Nando 👋
 
-- I'm 21, passionate about coding and always learning! 
+- I'm 22, passionate about coding and always learning! 
 - Love kitty videos
 - Introspective but not introverted
 - Thinking hurts, in a good way

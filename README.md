@@ -4,7 +4,7 @@
 - Love kitty videos
 - Introspective but not introverted
 - Thinking hurts, in a good way
-- In this life, my main goal is to develop a clear and objective comunication
+- Constantly improving my communication skills
 
 The technologies shown below are the ones I have the most experience with, but I'm always opened to learn others!
 

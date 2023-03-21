@@ -6,7 +6,7 @@
 - Thinking hurts, in a good way
 - Constantly improving my communication skills
 
-The technologies shown below are the ones I have the most experience with, but I'm always opened to learn others!
+The technologies shown below are the ones I have the most experience with, but I'm always open to learn others!
 
 ## Technologies & Tools <img src="https://media4.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif?cid=6c09b9522cta2xc47v1hsphpjqheusrz90dxprqg2d6wljih&rid=giphy.gif&ct=s" width="70px">
 ### Front-end

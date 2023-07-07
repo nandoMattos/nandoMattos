@@ -2,8 +2,6 @@
 
 - I'm 22, passionate about coding and always learning! 
 - Backend lover
-- Love silly kitty videos
-- Introspective but not introverted
 - Constantly improving my communication skills
 
 The technologies shown below are the ones I have the most experience with, but I'm willing to learn others!
